@@ -4,7 +4,7 @@
 
 
 
-**1.** For this project I have decided to acquire geo-tagged tweets in the contiguous United States. I downloaded the data from two different time windows. First, I downloaded the data during the afternoon, and the second data was downloaded after midnight around 2 am. The reason why I choose to do this comparison is because I am always fascinated by the amount of social media users in the United States, and twitter in particular. In addition, I am always fascinated by how massive the US is, and the dynamic of its population. Many unique and exciting events occur here in the states almost on a minute basis, and twitter is one platform that helps spread the events that are happening in the US through tweets, news and many more. 
+**1.** For this project I have decided to acquire geo-tagged tweets in the contiguous United States. I downloaded the data from two different time windows. First, I downloaded the data during the mid-day afternoon, and the second data was downloaded after midnight around 2 am. The reason why I choose to do this comparison is because I was always fascinated by the amount of social media users in the United States, and twitter in particular. In addition, I am always fascinated by how massive the US is, and the dynamic of its population. Many unique and exciting events occur here in the states almost on a minute basis, and twitter is one platform that helps spread the events that are happening in the US through tweets, news and many more. 
 
 
 
